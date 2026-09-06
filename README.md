@@ -205,39 +205,6 @@ e integração de sistemas.
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=WilllR7s&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-  alt="GitHub Stats"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilllR7s&layout=compact&theme=github_dark&hide_border=true"
-  alt="Linguagens mais utilizadas"
-/>
-
-</p>
-
----
-
-# 🐍 Contribuições
-
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/WilllR7s/WilllR7s/output/github-contribution-grid-snake-dark.svg"
-  alt="Animação das contribuições"
-/>
-
-</p>
-
----
-
 # 🎯 Atualmente
 
 📚 Aprofundando meus conhecimentos em **Desenvolvimento de Sistemas**
