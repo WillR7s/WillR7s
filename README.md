@@ -1,56 +1,125 @@
-# Seja Bem Vindo(a)! 😎
+# 👋 Seja bem-vindo(a)!
 
 <p align="center">
-  Meu nome é <strong>Willian Ribeiro</strong>.
+  <strong>Olá! Eu sou Willian Ribeiro.</strong>
 </p>
 
-## About me ;)
+<p align="center">
+  Técnico em Eletroeletrônica ⚡ | Estudante de Desenvolvimento de Sistemas 💻
+</p>
 
-📚 Estudante de Desenvolvimento de Sistemas  
-⚡ Técnico em Eletroeletrônica  
-💻 Interessado em desenvolvimento de software  
-⚙️ Automação, eletrônica e sistemas embarcados  
-✨ Filmes, séries e músicas
+---
 
-## 🛠️ Tecnologias
+## 🧑‍💻 Sobre mim
+
+Sou Técnico em Eletroeletrônica e atualmente estudante de Desenvolvimento de Sistemas.
+
+Tenho interesse em projetos que conectam **programação, eletrônica e automação**, buscando transformar ideias em soluções práticas e funcionais.
+
+Gosto de aprender colocando a mão na massa — desenvolvendo, testando, errando, corrigindo e entendendo como as coisas realmente funcionam.
+
+---
+
+## 🚀 O que eu faço
+
+- 💻 Desenvolvimento de sistemas
+- 🌐 Desenvolvimento de interfaces com HTML e CSS
+- ⚡ Programação com C++
+- 🔌 Eletrônica e sistemas embarcados
+- 📡 Comunicação entre dispositivos
+- 🤖 Automação e IoT
+- 📊 Desenvolvimento de interfaces para monitoramento
+- 🔗 Integração entre hardware e software
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css" />
+</p>
 
-### ⚡ Eletrônica & Automação
+### ⚡ Eletrônica & IoT
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+### 🔗 Comunicação & Automação
+
+<p>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
+</p>
 
 ### 🔧 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
+</p>
 
-## 🚀 Projetos
+---
 
-🔹 **Desenvolvimento de Sistemas**  
-Projetos desenvolvidos durante minha formação, explorando programação,
-interfaces e lógica de sistemas.
+## 📂 Projetos
 
-🔹 **Eletrônica e Sistemas Embarcados**  
-Projetos envolvendo microcontroladores, sensores e integração entre
-hardware e software.
+Aqui você encontrará projetos desenvolvidos durante minha formação e experiências práticas.
 
-🔹 **Automação e IoT**  
-Projetos envolvendo comunicação entre dispositivos, aquisição de dados
-e integração de sistemas.
+### 🔹 Desenvolvimento de Sistemas
 
-## 📚 Atualmente
+Aplicações e projetos desenvolvidos para praticar programação, lógica,
+interfaces e desenvolvimento de sistemas.
 
-Estou aprofundando meus conhecimentos em **Desenvolvimento de Sistemas**,
-buscando integrar programação, eletrônica e automação em projetos práticos.
+### 🔹 Eletrônica & Sistemas Embarcados
+
+Projetos utilizando microcontroladores, sensores e componentes eletrônicos,
+integrando hardware e software.
+
+### 🔹 Automação & IoT
+
+Projetos envolvendo aquisição de dados, comunicação entre dispositivos,
+monitoramento e integração de sistemas.
+
+---
+
+## 📈 GitHub
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=WilllR7s&show_icons=true&theme=github_dark&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilllR7s&layout=compact&theme=github_dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+---
+
+## 🎯 Atualmente
+
+📚 Aprofundando meus conhecimentos em **Desenvolvimento de Sistemas**
+
+💻 Evoluindo meus conhecimentos em **programação**
+
+⚡ Explorando cada vez mais a integração entre **software, eletrônica e automação**
+
+🚀 Desenvolvendo projetos para transformar conhecimento em experiência prática
+
+---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<p>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Construindo, aprendendo e evoluindo um projeto de cada vez.</i> 🚀
+</p>
